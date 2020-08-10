@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**tyler-hitzeman/tyler-hitzeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 👋 Hey, I'm Ty 
 
 - 🔭 I’m currently working on building epic GIS web apps for [Switchback](https://switchback.tech)
 - ⛰️ When not coding, I'm having fun at elevation: rock climbing, skiing, mtn biking
